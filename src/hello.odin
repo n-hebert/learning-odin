@@ -1,5 +1,5 @@
-package main
 // c/o https://odin-lang.org/docs/overview/
+package main
 
 import "core:fmt"
 
