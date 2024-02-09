@@ -4,9 +4,9 @@ https://odin-lang.org
 
 ## Why?
 
-Hey, if [[https://www.youtube.com/@jdh][jdh]] is interested, I'll take a peek.
+Hey, if [jdh](https://www.youtube.com/@jdh) is interested, I'll take a peek.
 
-Watch him learn live: https://www.youtube.com/watch?v=cCvjaC_cZ0k
+Watch him [learn live](https://www.youtube.com/watch?v=cCvjaC_cZ0k)
 
 # Recommended Steps
 
